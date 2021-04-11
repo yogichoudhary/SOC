@@ -7,7 +7,6 @@
 | Model 3 | Dense(150) | 0.7040  | 0.6437 | 0.7672 | 0.5600 |
 
 ### Best accuracy is in Model 1
-![Screenshot 2021-04-11 103815](https://user-images.githubusercontent.com/66175734/114293311-aea77b80-9ab2-11eb-9edb-0ab650b8a895.png)
-![Screenshot 2021-04-11 103845](https://user-images.githubusercontent.com/66175734/114293316-b5ce8980-9ab2-11eb-9802-296fb5bd19ac.png)
-![Screenshot 2021-04-11 103900](https://user-images.githubusercontent.com/66175734/114293321-b9621080-9ab2-11eb-9dbc-0c078d457137.png)
+
+
 
