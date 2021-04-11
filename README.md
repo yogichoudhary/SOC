@@ -10,3 +10,8 @@
 
 
 
+![](https://github.com/yogichoudhary/SOC/blob/main/Screenshot%202021-04-11%20111542.png)
+
+![](https://github.com/yogichoudhary/SOC/blob/main/Screenshot%202021-04-11%20111600.png)
+
+![](https://github.com/yogichoudhary/SOC/blob/main/Screenshot%202021-04-11%20111614.png)
